@@ -1,0 +1,12 @@
+---
+:id: 42914450
+:submitters:
+- :name: Yolanda Chen
+  :email: chen3633@purdue.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-09-08 10:47:48.883818000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-09-08 03:47:48.883818000 Z
+:status: processed
+:score: 14.0
