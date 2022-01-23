@@ -1,7 +1,8 @@
-## ENGR 133 Course Description
+## ENGR 133 
+### Course Description
 Engineering and engineers are very diverse. In ENGR 133, you will begin to develop a wide variety of skills that will benefit you as a Purdue student and that you can build on as a practicing engineer.
 
-## ENGR 133 Course Contents
+### Course Contents
 In ENGR 133, you will:
 - examine and analyze information from various engineering schools at Purdue to make informed decisions about your choice of an engineering major.
 - practice making evidence-based engineering decisions
