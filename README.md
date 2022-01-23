@@ -1,4 +1,4 @@
-## ENGR 133 
+## ENGR 133 Transforming Ideas to Innovation
 ### Course Description
 Engineering and engineers are very diverse. In ENGR 133, you will begin to develop a wide variety of skills that will benefit you as a Purdue student and that you can build on as a practicing engineer.
 
