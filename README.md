@@ -15,7 +15,8 @@ In ENGR 133, you will:
 - demonstrate habits of a professional engineer
 
 
-Note: This repository includes materials I've written during Fall2020 semester and the summer before that (Ind Proj). The commit dates are not accurate because I learned how Github works in Fall 2021 while taking ECE264. I then decided to upload my old files on to Github so all of my works could be organized in one place. 
+### Notes
+This repository includes materials I've written during Fall2020 semester and the summer before that (Ind Proj). The commit dates are not accurate because I learned how Github works in Fall 2021 while taking ECE264. I then decided to upload my old files on to Github so all of my works could be organized in one place. 
 
 - EXCEL includes basic excel assignments during FALL 2020 ENGR 133 class.
 
